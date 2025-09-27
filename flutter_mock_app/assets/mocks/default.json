@@ -1,0 +1,15 @@
+{
+  "scenario": "default",
+  "onboarding": {
+    "headline": "Welcome to OneKey",
+    "steps": 3
+  },
+  "home": {
+    "balanceLabel": "Total Assets",
+    "balanceFormatted": "$123,456.78",
+    "assets": [
+      { "name": "BTC", "subtitle": "Bitcoin", "balance": "1.23" },
+      { "name": "ETH", "subtitle": "Ethereum", "balance": "45.67" }
+    ]
+  }
+}
